@@ -69,6 +69,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <p className="copyright">Chris Gurung 2023</p>
     </div>
   );
 };
