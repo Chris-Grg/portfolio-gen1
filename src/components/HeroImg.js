@@ -1,6 +1,4 @@
 import "./HeroImgStyles.css";
-import "./Typewriter.css";
-
 import React from "react";
 import IntroImg from "../assets/chill.jpg";
 import { Link } from "react-router-dom";
@@ -15,8 +13,12 @@ const HeroImg = () => {
         <p>HI, I'M CHRIS GURUNG</p>
         <h1 className="typewriter">REACT DEVELOPER.</h1>
         <div>
-          <Link to="/project" className="btn">
-            Projects
+          <Link
+            to="https://drive.google.com/file/d/15Tvh4r2ZQHloqb-dhpdlLz4W_CwOGnxt/view?usp=sharing"
+            target="_blank"
+            className="btn"
+          >
+            Resume
           </Link>
           <Link to="/contact" className="btn-light">
             Contact

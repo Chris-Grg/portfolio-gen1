@@ -39,7 +39,7 @@ const ProjectCardData = [
   {
     imgsrc: pro4,
     title: "Newsletter",
-    text: "This is a To-Do-List project where you can add, edit and delete notes",
+    text: "This is an expressjs app which uses mailchimp api to sign up users to a mailing list",
     view: "https://github.com/Chris-Grg/Newsletter-signup",
     source: "https://github.com/Chris-Grg/Newsletter-signup",
     code: "js",

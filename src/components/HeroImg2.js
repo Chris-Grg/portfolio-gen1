@@ -27,7 +27,7 @@ const HeroImg = ({ type }) => {
         ) : type === "contact" ? (
           <>
             <h1>Contact</h1>
-            <p>You can contact me here</p>
+            <p>Let's talk!</p>
           </>
         ) : (
           <>
