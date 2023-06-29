@@ -1,0 +1,61 @@
+.about-container {
+  margin-bottom: 10px;
+}
+
+.about {
+  width: 100%;
+  margin: 3rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  transition: transform 0.2s;
+}
+
+.about .left {
+  text-align: center;
+  margin: auto;
+  padding: 1rem;
+  max-width: 350px;
+}
+
+.about .left p {
+  margin: 1.2rem 0;
+  font-size:x-large ;
+}
+
+.skills-section {
+  text-align: center;
+  color: #fff;
+  /* Set the text color to white */
+}
+
+.skills-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.skills-section .skill {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem; /* Add margin-bottom to create space between skills */
+}
+
+.lang {
+  margin-right: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.skills-section .skill .skill-icon {
+  width: 50px;
+  height: 50px;
+  margin-right: 0.5rem;
+  color: #fff; /* Set the icon color to white */
+}
+
+.skills-section .skill span {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
