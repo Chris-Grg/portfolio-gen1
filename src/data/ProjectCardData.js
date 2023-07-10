@@ -1,6 +1,6 @@
 import pro1 from "../assets/todo-list.png";
 import pro2 from "../assets/movieapp.png";
-import pro3 from "../assets/ecommerce-website.png";
+import pro3 from "../assets/ecommerce-intern-assign.png";
 import pro4 from "../assets/Newsletter.png";
 import portf from "../assets/portfolio.png";
 const ProjectCardData = [
@@ -31,9 +31,9 @@ const ProjectCardData = [
   {
     imgsrc: pro3,
     title: "ecommerce-website",
-    text: "Immerse yourself in a visually stunning ecommerce website. Browse through a range of products with a seamless user interface that ensures an optimal shopping experience. While the frontend steals the spotlight, the carefully designed layout keeps the focus on the products, allowing you to shop with ease.",
-    view: "https://github.com/Chris-Grg/e-commerce",
-    source: "https://github.com/Chris-Grg/e-commerce",
+    text: "Look through variety of products available in the website. Api provided through the fakestoreapi, you can search for specific products and click on the product to view additional details about it.",
+    view: "https://frontend-assignment-onlinestore.vercel.app/",
+    source: "https://github.com/Chris-Grg/frontend-assignment",
     code: "react",
   },
   {
