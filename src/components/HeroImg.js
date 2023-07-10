@@ -14,7 +14,7 @@ const HeroImg = () => {
         <h1 className="typewriter">REACT DEVELOPER.</h1>
         <div>
           <Link
-            to="https://drive.google.com/file/d/15Tvh4r2ZQHloqb-dhpdlLz4W_CwOGnxt/view?usp=sharing"
+            to="https://drive.google.com/file/d/1Pxt0LvkTdlGn6UDFmtaAxdm646miuq6x/view?usp=sharing"
             target="_blank"
             className="btn"
           >
